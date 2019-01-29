@@ -1,0 +1,11 @@
+0	Administrative Unit
+1	Public, 4-year or above
+2	Private not-for-profit, 4-year or above
+3	Private for-profit, 4-year or above
+4	Public, 2-year
+5	Private not-for-profit, 2-year
+6	Private for-profit, 2-year
+7	Public, less-than 2-year
+8	Private not-for-profit, less-than 2-year
+9	Private for-profit, less-than 2-year
+99	Sector unknown (not active)

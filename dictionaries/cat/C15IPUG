@@ -1,0 +1,22 @@
+1	Associate's Colleges: High Transfer
+2	Associate's Colleges: Mixed Transfer/Vocational & Technical
+3	Associate's Colleges: High Vocational & Technical
+4	Special Focus: Two-Year Institution
+5	Baccalaureate/Associates Colleges
+6	Arts & sciences focus, no graduate coexistence
+7	Arts & sciences focus, some graduate coexistence
+8	Arts & sciences focus, high graduate coexistence
+9	Arts & sciences plus professions, no graduate coexistence
+10	Arts & sciences plus professions, some graduate coexistence
+11	Arts & sciences plus professions, high graduate coexistence
+12	Balanced arts & sciences/professions, no graduate coexistence
+13	Balanced arts & sciences/professions, some graduate coexistence
+14	Balanced arts & sciences/professions, high graduate coexistence
+15	Professions plus arts & sciences, no graduate coexistence
+16	Professions plus arts & sciences, some graduate coexistence
+17	Professions plus arts & sciences, high graduate coexistence
+18	Professions focus, no graduate coexistence
+19	Professions focus, some graduate coexistence
+20	Professions focus, high graduate coexistence
+0	Not Classified (Exclusively Graduate Programs)
+-2	Not applicable, not in Carnegie universe (not accredited or nondegree-granting)

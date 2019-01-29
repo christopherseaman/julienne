@@ -1,0 +1,20 @@
+1	Postbaccalaureate: Single program-Education
+2	Postbaccalaureate: Single program-Business
+3	Postbaccalaureate: Single program-Other
+4	Postbaccalaureate: Comprehensive programs
+5	Postbaccalaureate: Arts & sciences-dominant
+6	Postbaccalaureate: Education-dominant, with Arts & Sciences
+7	Postbaccalaureate: Business-dominant, with Arts & Sciences
+8	Postbaccalaureate: Other-dominant, with Arts & Sciences
+9	Postbaccalaureate: Education-dominant, with other professional programs
+10	Postbaccalaureate: Business-dominant, with other professional programs
+11	Postbaccalaureate: Other-dominant, with other professional programs
+12	Research Doctoral: Single program-Education
+13	Research Doctoral: Single program-Other
+14	Research Doctoral: Comprehensive programs, with medical/veterinary school
+15	Research Doctoral: Comprehensive programs, no medical/veterinary school
+16	Research Doctoral: Humanities/social sciences-dominant
+17	Research Doctoral: STEM-dominant
+18	Research Doctoral: Professional-dominant
+0	Not classified (Exclusively Undergraduate)
+-2	Not applicable, not in Carnegie universe (not accredited or nondegree-granting)

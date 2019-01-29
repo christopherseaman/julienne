@@ -1,0 +1,544 @@
+101030	AL - Alabama Community College System
+101040	AL - Auburn University
+101050	AL - The University of Alabama System
+102010	AK - University of Alaska System of Higher Education
+104010	AZ - Arizona Board of Regents
+104020	AZ - Maricopa Community College District
+105010	AR - Arkansas State University System
+105020	AR - Southern Arkansas University System
+105030	AR - University of Arkansas System
+106010	CA - California Community College System
+106020	CA - California State University
+106040	CA - Downey Unified School District
+106050	CA - Los Angeles Community College District
+106060	CA - San Bernardino Community College District
+106070	CA - San Mateo County Community College District
+106080	CA - University of California
+106090	CA - West Valley Mission Community College District
+108010	CO - Colorado Community College System
+108020	CO - Colorado State University System
+108030	CO - Delta County School District 50-J
+108040	CO - University of Colorado
+109010	CT - Connecticut State Colleges and Universities
+109030	CT - Connecticut Technical High School System
+110010	DE - Delaware Technical and Community Colleges
+111010	DC - University of the District of Columbia
+112010	FL - Broward County Public Schools
+112020	FL - Collier County Public School District, Florida
+112030	FL - Florida State Board of Education
+112040	FL - Hillsborough Technical Colleges
+112050	FL - Leon County School Board
+112060	FL - Miami-Dade County Public Schools
+112070	FL - Orange County Public Schools
+112080	FL - Pasco County Schools
+112090	FL - State University System of Florida
+113010	GA - Technical College System of Georgia
+113020	GA - University System of Georgia
+115010	HI - University of Hawaii Board of Regents
+116010	ID - Idaho State Board of Education
+117010	IL - City Colleges of Chicago
+117020	IL - Illinois Community College System
+117030	IL - Southern Illinois University
+117040	IL - University of Illinois Board of Trustees
+118020	IN - Indiana University
+118030	IN - Indiana University-Purdue University
+118070	IN - Purdue University
+119010	IA - Board of Regents, State of Iowa
+119020	IA - Iowa Valley Community College District
+120010	KS - Kansas State University System
+121010	KY - Kentucky Community and Technical College System
+122010	LA - Louisiana Community and Technical College System
+122020	LA - Louisiana State University System
+122030	LA - Southern University System
+122040	LA - The University of Louisiana System
+123010	ME - Maine Community College System
+123020	ME - University of Maine System
+124010	MD - University System of Maryland
+125010	MA - Massachusetts Community Colleges
+125020	MA - Southern Worcester County Regional Vocational School District
+125030	MA - University of Massachusetts
+126010	MI - University of Michigan
+127010	MN - Minnesota State Colleges and Universities
+127020	MN - University of Minnesota
+128010	MS - Mississippi Institutions of Higher Learning
+128020	MS - Mississippi State Board for Community and Junior Colleges
+129020	MO - Coordinating Board for Higher Education
+129030	MO - Harrisonville Cass R-IX School District
+129050	MO - Marshall Public School System
+129070	MO - Metropolitan Community Colleges
+129080	MO - Missouri State University
+129090	MO - Pike County R-3 School District
+129100	MO - Platte County R3 School District
+129120	MO - Rolla Public School District
+129130	MO - Warrensburg School District
+129140	MO - St Louis Community College District
+129160	MO - University of Missouri System
+129170	MO - Washington School District
+130020	MT - Montana University System
+131010	NE - Nebraska State College System
+131020	NE - University of Nebraska
+132010	NV - Nevada System of Higher Education
+133010	NH - Community College System of New Hampshire
+133020	NH - University System of New Hampshire
+134010	NJ - Bergen County Technical Schools
+134020	NJ - State of New Jersey
+135010	NM - Eastern New Mexico University
+135020	NM - New Mexico State University System
+135030	NM - University of New Mexico
+136010	NY - City University of New York
+136020	NY - New York State Education Department
+136040	NY - State University of New York System
+137010	NC - Carolinas HealthCare System
+137020	NC - North Carolina Community College System
+137030	NC - University of North Carolina
+138010	ND - North Dakota University System
+139010	OH - Akron Public School System
+139020	OH - Cuyahoga Valley Career Center
+139030	OH - Eastland-Fairfield Career and Technical Schools
+139050	OH - Knox County Career County School Board
+139060	OH - Ohio University
+139065	OH - The Ohio State University-Main Campus
+139090	OH - The University System of Ohio
+139100	OH - Tri-Rivers JVSD
+139110	OH - Vanguard-Sentinel Career Centers
+139130	OH - Wayne County Joint Vocational School District
+139140	OH - Willoughby-Eastlake City Schools
+140020	OK - Oklahoma Department of Career and Technology Education
+140030	OK - Oklahoma State System of Higher Education
+140050	OK - Regional University System of Oklahoma
+141010	OR - Community Colleges and Workforce Development
+142020	PA - Joint Operating Committee for the ICTC
+142030	PA - Joint Operating Committee of the Somerset County Technology
+142050	PA - Pennsylvania State System of Higher Education
+142060	PA - The Pennsylvania State University
+142070	PA - University of Pittsburgh
+144010	RI - Rhode Island Board of Education
+145010	SC - South Carolina Commission of Higher Education
+145020	SC - South Carolina Technical College System
+145030	SC - University of South Carolina
+146010	SD - South Dakota Board of Education
+146020	SD - South Dakota Board of Regents
+147010	TN - The State University and Community College System of Tennessee
+147020	TN - The University of Tennessee System
+148010	TX - Alamo Colleges
+148020	TX - Texas A&M University System
+148030	TX - Texas State Technical College System
+148040	TX - Texas State University System
+148050	TX - Texas Tech University System
+148060	TX - The University of Texas System
+148070	TX - University of Houston System
+148080	TX - University of North Texas System
+149010	UT - Utah System of Technical Colleges
+149020	UT - Utah System of Higher Education
+150010	VT - Vermont State Colleges
+151020	VA - Virginia Beach City Public Schools
+151030	VA - Virginia Community College System
+153010	WA - University of Washington
+153020	WA - Washington State Board for Community and Technical Colleges
+154010	WV - Cabell County School System
+154020	WV - Mercer County Schools
+154030	WV - Mineral County Schools
+154040	WV - Monongalia County Board of Education
+154050	WV - Raleigh County Board of Education
+154060	WV - West Virginia Community and Technical College System
+154070	WV - West Virginia Department of Education, Fayette County Schools
+154080	WV - West Virginia Higher Education Policy Commission
+155010	WI - University of Wisconsin System
+155020	WI - Wisconsin Technical College System
+172010	PR - Puerto Rico State Department of Education
+172020	PR - University of Puerto Rico
+200010	Abington Memorial Hospital
+200030	Albany Medical Center
+200040	Alegent Health
+200060	American Academy of Dramatic Arts
+200070	American Indian OIC
+200080	Antioch University
+200100	Arnot Ogden Medical Center
+200110	Association for Research and Enlightenment
+200120	Augustana College Association
+200130	Averett University
+200140	Baker College System
+200150	Baptist Health
+200160	Baptist Memorial Health Care Corporation
+200170	Bard College
+200180	Barnes-Jewish Hospital
+200190	Bellin Health Systems
+200200	Beth Israel Medical Center
+200220	Bethel University
+200230	Bon Secours Health System
+200260	Caney Creek Community Center Inc.
+200290	Casa Loma College Inc.
+200330	Center for Employment Training
+200333	Center for Excellence in Higher Education
+200340	Centra Health
+200350	Central Methodist University
+200380	Chapman University
+200390	Church of God Mission Board of Puerto Rico
+200410	City College Inc.
+200420	Cleveland Clinic
+200430	Columbia International University
+200440	Columbus College of Art and Design Board of Trustees
+200445	Community HigherEd Institute
+200448	Compass Rose Foundation
+200450	Concordia University System
+200490	Cranbrook Educational Community
+200500	Crouse Health Hospital Inc.
+200510	Dominican University
+200530	EDP University of Puerto Rico Inc.
+200540	Ecclesia Inc.
+200550	Elizabethtown College
+200554	Embry-Riddle Aeronautical University Inc.
+200560	Frank Lloyd Wright Foundation
+200570	General Health System
+200580	Geneva General Hospital
+200590	Goddard College Corporation
+200600	Graceland University
+200610	Graham Hospital
+200620	Hallmark Health Systems Inc.
+200630	Hazelden Foundation Board of Governors
+200640	Hebrew Union College
+200655	Herzing University, LTD.
+200670	Holy Name Hospital
+200680	Hood Theological Seminary Board of Trustees
+200685	Hope International University
+200740	Iowa Health System
+200750	JEVS Human Services
+200760	JFK Health
+200770	Jefferson Regional Medical System
+200780	Johnson & Wales University
+200783	Johnson University
+200787	Kansas City University of Medicine and Biosciences
+200790	Kettering Health Network
+200800	Knights of Columbus Family Life Bureau Inc.
+200810	Lewistown Hospital
+200815	Linfield College
+200820	Los Angeles Jewish Home
+200850	Marlboro College
+200860	Mayo Clinic
+200880	Mercy
+200890	Methodist Health System
+200900	Methodist Medical Center of Illinois
+200910	LECOM Health System
+200913	Middlebury College
+200930	National University System
+200960	New England School of Law Corporation
+200970	New York Botanical Garden
+200980	New York Methodist Hospital
+200990	Northwood University
+201010	OSF Healthcare
+201020	Ohio Valley General Hospital
+201030	Palm Beach Atlantic University Inc.
+201040	Palmer College Foundation
+201050	Partners Health Care
+201070	Pierce Mortuary Colleges Inc.
+201090	Polytechnic University
+201100	Pontifical Catholic University of Puerto Rico Inc.
+201110	Private Industry Council of Westmorland/Fayette Inc.
+201140	Providence Health and Services
+201150	Reading Hospital and Medical Center
+201160	Regis Corporation
+201170	Remington College Inc.
+201210	Reynolds Memorial Hospital Board of Directors
+201220	Riverside Health System
+201250	Saint Vincent College Corporation
+201260	Sanford Health
+201290	Shadow Mountain Ministries
+201310	Shorter College
+201320	Sistema Universitario Ana G. Mendez
+201330	Sor Isolina Ferre Centers Inc.
+201350	Southeast Missouri Hospital
+201390	Saint Joseph Hospital
+201400	Saint Joseph's Hospital Health Center
+201410	Saint Francis Medical Center
+201420	Saint John's College
+201430	Sutter Health
+201440	TechMission
+201460	The Chicago School of Professional Psychology
+201470	The Claremont Colleges
+201480	The RAND Corporation
+201490	The Santa Barbara and Ventura Colleges of Law
+201500	Touro College and University System
+201510	Tri-City Baptist Ministries
+201525	Ultimate Medical Academy
+201528	United Lutheran Seminary
+201530	Universidad Interamericana de Puerto Rico
+201540	Universidad Politecnica
+201550	University of Pittsburgh Medical Center
+201570	Whitworth University
+201590	Word of Life Fellowship Inc.
+201620	Zenith Group
+300010	A Technological Advantage Inc.
+300012	Adtalem Global Education
+300015	American Academy of Personal Training
+300032	American National University
+300070	STVT-AAI Education Inc.
+300100	Academy of Hair Design Inc.
+300120	Acupuncture Center Inc.
+300130	Adcon Technical Institute Inc.
+300160	Allen School
+300165	Alliant International University, Inc.
+300210	American Career College Inc.
+300230	American Colleges of Hairstyling Inc.
+300260	American Educational College Inc.
+300280	American Higher Education Development Corporation
+300290	American Institute
+300300	American Institute of Medical Dental Technology Inc.
+300310	American Institute of Technology Inc.
+300320	American Public Education Inc.
+300340	Apollo Education Group, Inc
+300350	Arthur's Beauty College Inc.
+300370	Atlanta's John Marshall Law School
+300380	Automeca Technical College Inc.
+300390	Automotive Training Center Inc.
+300400	Aveda Institute
+300430	Babylon Beauty School of Smithtown Inc.
+300450	Bayshire Academy of Beauty Craft Inc.
+300470	Beauty Boutique Inc.
+300490	Beauty Careers Institute Inc.
+300500	Beauty First joint corporation
+300510	Beauty World Corporation
+300530	Berkeley College/Berkeley Education Services
+300550	Bradford Schools Inc.
+300570	Bridgepoint Education
+300580	Select Education Group
+300590	Broadview Institute Inc.
+300610	Broken Arrow Beauty College Inc.
+300620	Brookline College, LLC
+300623	Brown Aveda
+300630	Bryan Career College Inc.
+300650	Bryant & Stratton College
+300670	Bullen and Wilson LLC
+300690	Clido Inc.
+300700	CNT CORPORATION
+300710	CSI Career College
+300720	CTM Enterprises Inc.
+300760	Campus Hollywood
+300800	Capri Schools of Beauty Culture Inc.
+300810	Capri Training Centers Inc.
+300820	Career Care Institute Inc.
+300840	Career Education Corporation
+300870	Career Management Systems
+300890	Career Training Academy Inc.
+300910	Career Training Specialists LLC
+300930	Carsten Institute of Cosmetology
+300940	Center for Professional Studies Inc.
+300960	Central Career School Inc.
+300970	Central State Beauty Academy
+300980	Chamberlain University LLC
+301000	Cleveland Institute of Dental-Medical Assistants Inc.
+301005	Coachella Valley Beauty College Inc
+301040	College of Business and Technology Inc.
+301080	Columbia College Corporation
+301090	Columbia College Inc.
+301100	Columbia Greene Beauty School Inc.
+301110	Columbia Southern Education Group Inc.
+301120	Command Concept Company Inc.
+301140	Community Health Systems
+301160	Compu-Med Vocational Careers Corp
+301180	Concorde Career Colleges Inc.
+301200	Consolidated School of Business Inc.
+301210	Coral Springs Schools Inc.
+301290	Cosmetology Careers Unlimited Inc.
+301300	Coyne American Institute Inc.
+301310	Crystal Lake Academy Inc.
+301320	D & L Academy of Hair Design Inc.
+301330	D'Mart Institute Inc.
+301350	Dlorah Inc.
+301370	Darrobe Inc.
+301390	Daymar Colleges Group
+301440	Delta Career Education Corporation
+301470	Design's School of Cosmetology Inc.
+301475	Diesel Driving Academy
+301480	Digipen Corporation
+301490	Toni & Guy Hairdressing Academy
+301500	Diversified Education Company
+301520	Dorsey School of Business Holdings Inc.
+301580	Duran Rubero Beauty Center Inc.
+301590	EA Education Inc.
+301600	Novateur Education
+301620	EduK Group
+301640	EEG Inc.
+301650	EFC Trade
+301680	Edco Systems LP
+301720	Education Affiliates Inc.
+301770	Education Corporation of America
+301780	Education Futures Group LLC
+301790	Education Management Corporation
+301810	Education Management Inc.
+301840	Educational Management Corporation
+301850	Educational Technical College
+301870	Elaine Steven Beauty College Inc.
+301880	Elizabeth Grady Face First Inc.
+301890	Empire Education Corporation
+301910	Employment Services Inc.
+301920	Empowerment Healthcare Schools
+301950	Escuela de Peritos Electricistas de Isabela Inc.
+301975	European Message Therapy Schools
+301990	Evergreen Cosmo Inc.
+301995	Excel Salon Products Incorporated
+302010	Fiegen & Bisenius Inc.
+302030	Finger Lakes Massage Group Inc.
+302060	Fox Institute of Business Inc.
+302090	GFH Inc.
+302140	Gem City College
+302150	Gene Juarez Beauty Schools LLC
+302200	HMR Enterprises Inc.
+302240	Hays Academy of Hair Design
+302245	HCA Healthcare
+302335	Houghton Lake Institute of Cosmetology
+302340	House of Heavilin of Blue Springs Inc.
+302360	Houston Training Schools Inc.
+302365	Human Capital Incorporated
+302370	Hunter Business School Inc.
+302380	Hussian School of Art Inc.
+302460	Institute of Cosmetology LTD
+302470	Instituto de Educacion Inc.
+302480	Interactive Learning Systems Inc.
+302490	International Business College Inc.
+302520	International Culinary Center - New York
+302530	International Education Corporation
+302540	International Institute for the Advancement of Aesthetics Inc.
+302550	Iowa School of Beauty Inc.
+302570	J2D LLC
+302590	JTC Education Inc.
+302600	John Jay Beauty College Inc.
+302620	Joseph's Colleges of Beauty and Barbering
+302630	Kansas School of Barbering
+302640	Kaplan Higher Education Corporation
+302680	Kenlew Inc.
+302700	Kip Siu LLC
+302730	LIBI Corporation
+302740	LTT Enterprises Inc.
+302750	La James International College
+302760	LaLaak Corporation
+302780	Latress Beauty Academy Inc.
+302810	Laureate Education Inc.
+302820	Laurel Business Institute
+302840	Leighann holdings Inc.
+302850	Liberatoscioli Inc.
+302860	Liberty Group
+302880	Lincoln Barber College
+302900	Lincoln Educational Services
+302910	Loretta Paganini School of Cooking Inc.
+302930	M & S Media Inc.
+302980	Make-up Designory Inc.
+303000	Mansfield Beauty Schools Inc.
+303010	Manuel and Theresa's School of Hair Design
+303040	Marian Health Careers Center
+303050	Mayfield College Inc.
+303085	Med-Life Enterprises, Inc.
+303090	MediaTech Institute
+303100	Medical Dynamics Inc.
+303130	Metro Business College
+303180	Midwest Technical Institute Inc.
+303190	Mikhail Education Corporation
+303200	Milan Institute
+303250	Minnesota School of Cosmetology Inc.
+303260	Mississippi Institute of Aesthetics, Nails, & Cosmetology Inc.
+303270	Mitchell's Hair Styling Inc.
+303280	Montano Pabon and Associates
+303290	Moored Associates LLC
+303300	Ms Beau Monde Inc.
+303320	MyComputerCareer.com Inc.
+303330	NPTI Colorado
+303340	National Aviation Academy
+303350	National College
+303380	National Education Seminars Inc.
+303390	National Tractor Trailer School Inc.
+303400	New England Tractor Trailer Training of Massachusetts Inc.
+303410	New York Film Academy
+303460	North American Trade Schools Inc.
+303470	North Penn Business & Technical Institute Inc.
+303480	North-West College
+303500	Northwestern College
+303520	Oceanside College of Beauty Inc.
+303530	Ohio State School of Cosmetology Corporation
+303540	Olympus Inc.
+303550	P & A Scholars Inc.
+303580	PJ's College of Cosmetology Inc.
+303590	Pacific College of Oriental Medicine
+303610	Paul Mitchell Schools
+303620	Paul Mitchell The School
+303650	Pennco Institutes Inc.
+303660	Phagans Cosmetology Colleges
+303680	Manufacturer’s Technical Institutes, Inc
+303690	Pioneer Education LLC
+303700	Pivot Point International Inc.
+303710	Platt College LLC.
+303730	Pocatello Beauty Academy Inc.
+303740	Porter and Chester
+303745	Poway Academy of Hair Design Inc.
+303770	Premier Education Group LP
+303790	Prince Careers Inc.
+303800	Prism Education Group
+303810	Professional Skills Inc.
+303820	Professional's Choice Hair Design Academy
+303830	Prospect Education
+303840	Qe2 Systems Inc.
+303850	Quest Education Corporation
+303860	R & M Beauty
+303880	RTP Hispanic American College Inc.
+303890	RWH Inc.
+303900	Raphaels School of Beauty Culture Inc.
+303910	Rasmussen College Inc.
+303920	Reed Jackson Holdings Inc.
+303950	Rembrandt Group
+303970	Resource Productivity Management Inc.
+303980	Ridley-Lowell School of Business Inc.
+304000	Rob Roy Academy Inc.
+304010	Rockhurst University
+304050	Ross Education, LLC
+304070	Rosslyn Training Academy of Cosmetology Inc.
+304080	Rudae's Inc.
+304120	SAE Institute Group Inc.
+304130	Southern Technical Holdings, LLC
+304150	SSS Education Inc.
+304180	San Joaquin Valley College Inc.
+304190	Sanbarcollbuscom Inc.
+304200	Sapientis Educational Group Inc.
+304230	Silva and Lopez Associates Inc.
+304255	Spartan Education Group, LLC
+304270	Steiner Education Group
+304320	Sterling School of Beauty Culture Inc.
+304370	Strayer Education Inc.
+304400	Studio Production Inc.
+304410	Stylemaster's Beauty Academy Inc.
+304420	Sullivan University System
+304440	Syllan Careers Inc.
+304450	TBES Inc.
+304460	TDDS Inc.
+304480	Technical Education Services, Inc
+304500	Technology Training Systems Inc.
+304520	The Fashion Institute of Design and Merchandising
+304530	The Infilaw System
+304550	The Salon Professional Academy
+304580	The Taft University System Inc.
+304590	Tint School of Makeup & Cosmetology
+304600	Total Looks Corporation
+304650	Tri-State Educational Systems Inc.
+304660	Triangle Tech Inc.
+304670	Tricoci University of Beauty Culture LLC
+304690	Triumph Higher Education Group
+304700	Tulsa Welding School Inc.
+304730	UCAS Inc.
+304760	Unitech Training Academy Inc.
+304770	United Investments of Illinois Inc.
+304780	Unitek Information Systems
+304790	Universal College of Beauty Inc.
+304800	Universal Technical Institute Inc.
+304810	University of Northwestern Ohio
+304820	University of Phoenix
+304840	VCC Management LLC
+304850	Valley Training Centers Inc.
+304860	Vatterott Educational Centers Inc.
+304880	Venus Schools Inc.
+304930	WellSpring Resources Inc.
+304950	West Coast University Inc.
+304970	West Virginia Junior College Inc.
+305010	WorkForce Training Solutions Inc.
+305020	Xenon International Academy
+305040	York Technical Institute LLC
+305060	professional hands institute inc.
+400010	Institute of Allied Medical Professions
+-1	Not reported
+-2	Not applicable

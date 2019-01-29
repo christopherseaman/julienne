@@ -1,0 +1,8 @@
+'A'	Active - institution active
+'N'	New (active) - added during the current year
+'R'	Restore (active) - restored to the current universe
+'M'	Closed in current year (active has data)
+'C'	Combined with other institution
+'D'	Delete out of business
+'O'	Out-of-scope of IPEDS - not postsecondary
+'G'	Perfect child campus - data reported with main campus, but is listed on college navigator
